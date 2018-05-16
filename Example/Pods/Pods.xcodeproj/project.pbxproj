@@ -33,6 +33,33 @@
 		F99473778F55697869396ACAE00DCA3C /* BadgeViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287140C55EA322AC09AC9E7180C71198 /* BadgeViewPresenter.swift */; };
 		FBD5F9C12B94DAB4178B539E51B01AD5 /* Pods-Segmentio_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 767CFFF920043E57561E5E2514B46951 /* Pods-Segmentio_Example-dummy.m */; };
 		FFB295F820F3A3F6A6BCFFDA612EE269 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+=======
+		0906DB2204F3DA0B929ED2B2FD92C3BE /* SegmentioCellWithImageOverLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71AC7FDBBA82CCF64068DC1436B7C44C /* SegmentioCellWithImageOverLabel.swift */; };
+		0BC7695D61D9046BFBE6CFD6B47FFFE1 /* Pods-Segmentio_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8758BAC37EDDE6390078CCD596B97C99 /* Pods-Segmentio_Example-dummy.m */; };
+		0BC8A81C32C10C3EB2DDF82EAD33481D /* SegmentioCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9034CEC1DC6A90954C69B5CF0A879E9D /* SegmentioCell.swift */; };
+		11E7945679FA0D80B96BC5DA4B1D00D0 /* SegmentioOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1224468BD5929E62BFF27E1C11853D24 /* SegmentioOptions.swift */; };
+		1E8DCF6AD4051E3F7CFD9B55341DD455 /* Segmentio-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C56AE5AC5779B7D4F6468D2AB474D9E7 /* Segmentio-dummy.m */; };
+		1F40A33F3F753FF73C5F80F006E14410 /* Segmentio.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 2AAAF5E594CC994BE5AD10F8928BC48A /* Segmentio.bundle */; };
+		20218D2C75E1CA8E41531E94BA06C129 /* SegmentioCellWithImageUnderLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917595D61BE778C2053B6C375292B042 /* SegmentioCellWithImageUnderLabel.swift */; };
+		2DA5CD5E23B0E19B8FA2F11146E4A0E5 /* SegmentioCellWithLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4666D5034926280B3C39CB8CA59319 /* SegmentioCellWithLabel.swift */; };
+		4E01C978EC149C600FF7658A6757204A /* SegmentioCellWithImageAfterLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564D3D18F6E439E721C7D49AC8379559 /* SegmentioCellWithImageAfterLabel.swift */; };
+		5BE82675DB7F0C7671EADA9CF99A3C1B /* Segmentio.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D0C0018887EA8F91F91162FF71F60 /* Segmentio.swift */; };
+		655C575E9623729978F286F79E4EAEB8 /* BadgeWithCounterViewStandardSized.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E90ECA263F832D2C77F806A4581AE25 /* BadgeWithCounterViewStandardSized.xib */; };
+		8F726950BDA00432603D2B6B01881D59 /* BadgeWithCounterViewBigSized.xib in Resources */ = {isa = PBXBuildFile; fileRef = 11C011383E55FDF0C1CFAA8E1E01F52C /* BadgeWithCounterViewBigSized.xib */; };
+		933D56EF2ECC35F1387B739170AFE07B /* Segmentio-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 80BC1DC599A5ED2C131F4E6D0D020D88 /* Segmentio-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9EE6B5FE2A8EA2C0612C11D34596B7EB /* BadgeViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C9CACA5CC49ABD89BB5C0082B56F17 /* BadgeViewPresenter.swift */; };
+		BC2B9C2A1711F5583A80C1FA7F6F195F /* SegmentioCellWithImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF90D3EF6772ECC6F43EF17AAB5C916 /* SegmentioCellWithImage.swift */; };
+		C1518E27E6C853C813006C349427A4CC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		C3DB5E9DDBA27211C6E8654A363CA0BC /* UIView+Appearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BC6E8817CCBFF23555995D47BF0848 /* UIView+Appearance.swift */; };
+		C4EFEC716055615A27A3D1338426807D /* BadgeWithCounterViewBigSized.xib in Resources */ = {isa = PBXBuildFile; fileRef = 11C011383E55FDF0C1CFAA8E1E01F52C /* BadgeWithCounterViewBigSized.xib */; };
+		C917381BC4E7C5EFBC2CD2C898C1C8E4 /* SegmentioCellWithImageBeforeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D84AE8DDC577C7E7499059038BABBC /* SegmentioCellWithImageBeforeLabel.swift */; };
+		D29DE39BAA26D8E4DA7534F05DFB78F4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		D9EBCEA1512D4B307726BFEB5F29EF70 /* BadgeWithCounterViewStandardSized.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E90ECA263F832D2C77F806A4581AE25 /* BadgeWithCounterViewStandardSized.xib */; };
+		E6E0179AF8247CB20CB77A1E33C88C7F /* RoundImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561B2B4C70B40E0E028301D454D3EBF /* RoundImageView.swift */; };
+		EA89BD32CAE3C825C749261B9D4A2031 /* Pods-Segmentio_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FCCE72372A4C77BEF387923951E588F2 /* Pods-Segmentio_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F05DE51A2099906600A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */ = {isa = PBXBuildFile; fileRef = F05DE5192099906500A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib */; };
+		F05DE51B2099906600A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */ = {isa = PBXBuildFile; fileRef = F05DE5192099906500A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib */; };
+		F6814CD90D68BE2911E97CE7F62E5DA1 /* BadgeWithCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BE9AEFB42AAAC25501C181FF72B653 /* BadgeWithCounterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +121,44 @@
 		C54DD637590CEF96A7A1571B43EA08CC /* SegmentioCellWithImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImage.swift; sourceTree = "<group>"; };
 		EAAC9B8D58E54B2195075F0BA95F7C89 /* Segmentio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Segmentio.framework; path = Segmentio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECE91D4DE857576D269F606516EFD16F /* Pods-Segmentio_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Segmentio_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		052C95F5D6DA625FB41DB8135B2A4DE1 /* Pods-Segmentio_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Segmentio_Example-frameworks.sh"; sourceTree = "<group>"; };
+		11C011383E55FDF0C1CFAA8E1E01F52C /* BadgeWithCounterViewBigSized.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = BadgeWithCounterViewBigSized.xib; sourceTree = "<group>"; };
+		1224468BD5929E62BFF27E1C11853D24 /* SegmentioOptions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioOptions.swift; sourceTree = "<group>"; };
+		1BF90D3EF6772ECC6F43EF17AAB5C916 /* SegmentioCellWithImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImage.swift; sourceTree = "<group>"; };
+		2AAAF5E594CC994BE5AD10F8928BC48A /* Segmentio.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Segmentio.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		37602088D7DDBEBF54BCE7CAF18CB105 /* Pods-Segmentio_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Segmentio_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		38BC6E8817CCBFF23555995D47BF0848 /* UIView+Appearance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIView+Appearance.swift"; sourceTree = "<group>"; };
+		39CC3133DEC50AE996B30883B4A76CFC /* Segmentio-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Segmentio-prefix.pch"; sourceTree = "<group>"; };
+		428DB76E87B8795FDAD056914F0EB8BD /* Pods-Segmentio_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Segmentio_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4DA45A534C62C7379DB6EF50F3B4DBFA /* Segmentio.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Segmentio.modulemap; sourceTree = "<group>"; };
+		5152D5684BA571B16D3CBB78B9F81B75 /* Pods-Segmentio_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Segmentio_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		564D3D18F6E439E721C7D49AC8379559 /* SegmentioCellWithImageAfterLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImageAfterLabel.swift; sourceTree = "<group>"; };
+		56D84AE8DDC577C7E7499059038BABBC /* SegmentioCellWithImageBeforeLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImageBeforeLabel.swift; sourceTree = "<group>"; };
+		5D4E8D49DE85EE73865F0FFAE93ACDA8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64BE9AEFB42AAAC25501C181FF72B653 /* BadgeWithCounterView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BadgeWithCounterView.swift; sourceTree = "<group>"; };
+		6A4666D5034926280B3C39CB8CA59319 /* SegmentioCellWithLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithLabel.swift; sourceTree = "<group>"; };
+		6E90ECA263F832D2C77F806A4581AE25 /* BadgeWithCounterViewStandardSized.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = BadgeWithCounterViewStandardSized.xib; sourceTree = "<group>"; };
+		71AC7FDBBA82CCF64068DC1436B7C44C /* SegmentioCellWithImageOverLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImageOverLabel.swift; sourceTree = "<group>"; };
+		808E8A2F66FEF9BFA423C8B51FEB3FD3 /* Pods-Segmentio_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Segmentio_Example.release.xcconfig"; sourceTree = "<group>"; };
+		80BC1DC599A5ED2C131F4E6D0D020D88 /* Segmentio-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Segmentio-umbrella.h"; sourceTree = "<group>"; };
+		8758BAC37EDDE6390078CCD596B97C99 /* Pods-Segmentio_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Segmentio_Example-dummy.m"; sourceTree = "<group>"; };
+		9034CEC1DC6A90954C69B5CF0A879E9D /* SegmentioCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCell.swift; sourceTree = "<group>"; };
+		917595D61BE778C2053B6C375292B042 /* SegmentioCellWithImageUnderLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SegmentioCellWithImageUnderLabel.swift; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D06B7FD5EDA771583A3CF08D0F68DE9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A561B2B4C70B40E0E028301D454D3EBF /* RoundImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RoundImageView.swift; sourceTree = "<group>"; };
+		AAF3441A43AA58E58A7340FA1E66271B /* Segmentio.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Segmentio.xcconfig; sourceTree = "<group>"; };
+		AE666A58F4294719B8B89D33423889C4 /* Pods-Segmentio_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Segmentio_Example-resources.sh"; sourceTree = "<group>"; };
+		B07FA81FE6C58F8096D157CF2D32550A /* Pods_Segmentio_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Segmentio_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2527411739A24C97909490FC5C54F10 /* Pods-Segmentio_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Segmentio_Example.modulemap"; sourceTree = "<group>"; };
+		B5ED1F4A55A82441D24099184B5077B5 /* ResourceBundle-Segmentio-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Segmentio-Info.plist"; sourceTree = "<group>"; };
+		C373AAC9C68346B42AC567AD943825F7 /* Segmentio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Segmentio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C56AE5AC5779B7D4F6468D2AB474D9E7 /* Segmentio-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Segmentio-dummy.m"; sourceTree = "<group>"; };
+		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D91D0C0018887EA8F91F91162FF71F60 /* Segmentio.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Segmentio.swift; sourceTree = "<group>"; };
+		E3C9CACA5CC49ABD89BB5C0082B56F17 /* BadgeViewPresenter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BadgeViewPresenter.swift; sourceTree = "<group>"; };
+		F05DE5192099906500A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BadgeWithCounterViewStandardSizedWithoutValue.xib; sourceTree = "<group>"; };
+		FCCE72372A4C77BEF387923951E588F2 /* Pods-Segmentio_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Segmentio_Example-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +308,9 @@
 			children = (
 				C1FAE62910AF859D8FF346B7377A53E3 /* RoundImageView.swift */,
 				1BD803C40BAC5EB6037E3F3E329BC1BF /* UIView+Appearance.swift */,
+				11C011383E55FDF0C1CFAA8E1E01F52C /* BadgeWithCounterViewBigSized.xib */,
+				6E90ECA263F832D2C77F806A4581AE25 /* BadgeWithCounterViewStandardSized.xib */,
+				F05DE5192099906500A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib */,
 			);
 			name = Extensions;
 			path = Segmentio/Source/Extensions;
@@ -402,6 +470,9 @@
 				2FA7D857B72F593C53E9117B2C2CE8B5 /* BadgeWithCounterViewStandardSized.xib in Resources */,
 				27D068BBB236DB167F767924A8159834 /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */,
 				D843E3E8B9FB82C3D09CA1DA75CE11BC /* Segmentio.bundle in Resources */,
+				F05DE51B2099906600A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */,
+				8F726950BDA00432603D2B6B01881D59 /* BadgeWithCounterViewBigSized.xib in Resources */,
+				655C575E9623729978F286F79E4EAEB8 /* BadgeWithCounterViewStandardSized.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +483,10 @@
 				3FB9321ED68B69BCD8F21D766174B832 /* BadgeWithCounterViewBigSized.xib in Resources */,
 				D8B913901F492542B5353EB8594EF20D /* BadgeWithCounterViewStandardSized.xib in Resources */,
 				50C5B559016EF6292BB81D3E5FF6A6F9 /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */,
+				C4EFEC716055615A27A3D1338426807D /* BadgeWithCounterViewBigSized.xib in Resources */,
+				F05DE51A2099906600A4F71F /* BadgeWithCounterViewStandardSizedWithoutValue.xib in Resources */,
+				D9EBCEA1512D4B307726BFEB5F29EF70 /* BadgeWithCounterViewStandardSized.xib in Resources */,
+				1F40A33F3F753FF73C5F80F006E14410 /* Segmentio.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
